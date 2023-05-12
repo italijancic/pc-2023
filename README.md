@@ -1,4 +1,4 @@
-# 🚀r Projects Template
+# 🚀 Projects Template
 Author: Ivan Talijancic
 
 ## 📋 Use instrucctions
